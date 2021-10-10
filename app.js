@@ -71,8 +71,8 @@ async function main() {
   console.log('执行完毕');
 
   // 发送结果
-  await sendNotify();
-  console.log('发送完毕');
+  // await sendNotify();
+  // console.log('发送完毕');
 }
 
 main();
